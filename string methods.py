@@ -9,7 +9,7 @@ print(name.upper())
 print(name.lower())
 
 # remove whitespace
-print(space.remove())
+# print(space.remove(sa))
 
 # replace
 print(name.replace("yasHoDip","Yashodip"))
@@ -21,7 +21,7 @@ print(name.capitalize())
 print(name.count('a'))
 
 # split 
-print(space.split(s))
+print(space.split('s'))
 
 # strip
 print(space.strip())
