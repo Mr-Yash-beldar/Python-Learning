@@ -1,4 +1,4 @@
-def arm(n) -> int:
+def arm(i) -> int:
      n = i
      sum=0;
      while(i>0):
