@@ -1,4 +1,4 @@
-# 
+
 # Armstrong Number
 num=int(input("Number: "))
 n=num
