@@ -1,0 +1,8 @@
+Employee ID: E001
+Employee Salary: 50000
+Employee Name: John Doe
+
+Employee ID: E002
+Employee Salary: 60000
+Employee Name: Jane Smith
+
