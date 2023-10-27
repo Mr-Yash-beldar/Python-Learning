@@ -1,0 +1,7 @@
+Patient Name: Darshan
+Age: Choudhari
+Gender: Male
+Symptoms:
+I have leg issue
+Doctor's Name: Harsh
+Appointment Number: 123
