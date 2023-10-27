@@ -1,0 +1,6 @@
+Patient Name: Harsh Jain
+Age: 20
+Gender: Female
+Symptoms:
+I have cancerDoctor's Name: Lalu yadav
+Appointment Number: 12
