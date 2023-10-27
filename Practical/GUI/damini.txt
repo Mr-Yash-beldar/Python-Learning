@@ -1,0 +1,6 @@
+Patient Name: Damini
+Age: 19
+Gender: Female
+Symptoms:
+I have headacheDoctor's Name: Dr, Rathi
+Appointment Number: 45
