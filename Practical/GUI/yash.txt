@@ -1,0 +1,5 @@
+Patient Name: Yash
+Age: 20
+Gender: Male
+Symptoms:
+I have cold and cough

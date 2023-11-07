@@ -1,0 +1,5 @@
+Patient Name: Yashodip
+Age: 12
+Gender: Male
+Symptoms:
+I have fever
