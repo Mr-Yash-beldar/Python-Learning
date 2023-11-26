@@ -1,0 +1,7 @@
+import matplotlib.pyplot as plt
+import numpy as np
+ypoints=np.array([3, 5, 7,5])
+
+#add linestyle here dotted dashdot solid dashed none
+plt.plot(ypoints, linestyle='dotted')
+plt.show()
